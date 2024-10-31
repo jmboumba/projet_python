@@ -6,4 +6,3 @@ for personne in contenu.json()["people"]:
         print(personne)
 
 
-#MBOUMBA MOUSSAVOU Junior Melcki
